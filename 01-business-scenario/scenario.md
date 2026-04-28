@@ -39,3 +39,6 @@ To address these concerns, the organization must:
 
 ## Summary
 The challenge is to design a network security approach that provides strong protection for critical systems while remaining efficient, scalable, and cost-conscious.
+
+## Real-World Relevance
+This scenario reflects common challenges in enterprise environments, where organizations must balance security, cost, and operational efficiency while protecting critical business systems.
